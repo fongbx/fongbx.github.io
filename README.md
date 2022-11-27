@@ -1,6 +1,6 @@
 ## My Data Science Portfolio
 
-Visit my Data Science Portfolio at https://fongbx.github.io/
+Visit my Data Science Portfolio at https://fongbx.github.io/.
 ___
 
 ### References
