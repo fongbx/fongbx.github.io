@@ -6,8 +6,8 @@
 
 My complete implementation of exercises and assignments in [***ISSS624: Applied Geospatial Analytics***] as part of my Masters of IT in Business studies in Singapore Management University.
 
-[![View on GitHub](https://img.shields.io/badge/R-Open%20Markdown-%23276DC3?logo=R)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+[![Open R Markdown](https://img.shields.io/badge/R-Open%20Markdown-%23276DC3?logo=R)](https://isss624-fongbx.netlify.app/)
+[![View on GitHub](https://img.shields.io/badge/Github-View%20on%20Github-%23181717?logo=Github)](https://github.com/fongbx/ISSS624)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
