@@ -1,6 +1,6 @@
-# My Data Science Portfolio
+# My Data Science Project Portfolio
 
-Visit my Data Science Portfolio at https://fongbx.github.io/.
+Visit my Data Science Project Portfolio at https://fongbx.github.io/.
 
 ## References
 [1] The wonderful guide from Chris Tran on Creating a Minimalism GitHub Page for Your Data Science Portfolio in 30 Minutes: https://github.com/chriskhanhtran/portfolio-tutorial
