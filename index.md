@@ -4,34 +4,36 @@
 
 ### ISSS624: Applied Geospatial Analytics
 
-My complete implementation of exercises and assignments in [***ISSS624: Applied Geospatial Analytics***] as part of my Masters of IT in Business studies in Singapore Management University.
-
-[![Open R Markdown](https://img.shields.io/badge/R-Open%20Markdown-%23276DC3?logo=R)](https://isss624-fongbx.netlify.app/)
+[![Open R Markdown](https://img.shields.io/badge/R-Open%20Markdown%20Webpage-%23276DC3?logo=R)](https://isss624-fongbx.netlify.app/)
 [![View on GitHub](https://img.shields.io/badge/Github-View%20on%20Github-%23181717?logo=Github)](https://github.com/fongbx/ISSS624)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+My complete implementation of exercises and assignments in [***ISSS624: Applied Geospatial Analytics***] as part of my Masters of IT in Business studies in Singapore Management University.
+
+**Project Title 1:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+
+**Project Title 2:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+
+<center><img src="images/nlp.png"/></center> # link to image
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Analysis of Resignation Rates in Singapore
+
+[![Open Shiny App](https://img.shields.io/badge/R-Open%20Shiny%20App-%23276DC3?logo=R)](http://credit-risk.herokuapp.com/)
+
+<div style="text-align: justify">Description of Project...</div>
+<br>
+<center><img src="images/nlp.png"/></center> # link to image
 
 ---
+### Analysis of Proximity to Expressway and HDB Resale Prices in Singapore
 
-### Category Name 2
+[![Open Notebook](https://img.shields.io/badge/Python-Open%20Notebook-%233776AB?logo=Python)](projects/detect-spam-nlp.html)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
+<div style="text-align: justify">Description of Project...</div>
+<br>
+<center><img src="images/nlp.png"/></center> # link to image
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<center>© 2022 Fong Bao Xian. Powered by Jekyll and the Minimal Theme.</center>
