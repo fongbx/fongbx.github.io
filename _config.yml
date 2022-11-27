@@ -1,0 +1,17 @@
+title: <p align="center"> Fong Bao Xian </p>
+
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+
+description: >
+  <p align="center">
+  <a href="https://www.linkedin.com/in/fong-bao-xian">LinkedIn</a> |
+  <a href="https://https://github.com/fongbx">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  Data analyst, hobby coder and problem solver.
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
