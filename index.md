@@ -23,7 +23,7 @@ My complete implementation of exercises and assignments in [***ISSS624: Applied 
 
 <div style="text-align: justify">An Rshiny App for exploration of the resignation rates in Singapore over the years, across industries and occupations, as well as in relation to other workplace factors like Median Monthly Income, Average Weekly Hours Worked and Proportion of Flexible Work Arrangement.</div>
 <br>
-<center><img src="images/Rshiny.jpg"/></center>
+<center><img src="images/Rshiny.JPG"/></center>
 
 ---
 ### Analysis of Proximity to Expressway and HDB Resale Prices in Singapore
