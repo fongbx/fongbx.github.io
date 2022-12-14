@@ -18,7 +18,7 @@ My complete implementation of exercises and assignments in [***ISSS624: Applied 
 ---
 ### Analysis of Resignation Rates in Singapore
 
-[![Open Shiny App](https://img.shields.io/badge/R-Open%20Shiny%20App-%23276DC3?logo=R)](http://credit-risk.herokuapp.com/)
+[![Open Shiny App](https://img.shields.io/badge/R-Open%20Shiny%20App-%23276DC3?logo=R)](https://fongbx.shinyapps.io/rshiny_app/)
 [![View on GitHub](https://img.shields.io/badge/Github-View%20on%20Github-%23181717?logo=Github)](https://github.com/fongbx/ISSS624)
 
 <div style="text-align: justify">Description of Project...</div>
