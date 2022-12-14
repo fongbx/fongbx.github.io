@@ -7,6 +7,7 @@
 [![View on GitHub](https://img.shields.io/badge/Github-View%20on%20Github-%23181717?logo=Github)](https://github.com/fongbx/resignation_rates)
 
 <div style="text-align: justify">An Rshiny App for exploration of the resignation rates in Singapore over the years, across industries and occupations, as well as in relation to other workplace factors like Median Monthly Income, Average Weekly Hours Worked and Proportion of Flexible Work Arrangement.</div>
+<br>
 <center><img src="images/Rshiny.JPG"/></center>
 
 ---
