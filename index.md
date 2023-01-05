@@ -22,6 +22,17 @@
   An analysis of whether proximity of the HDB to the expressway has a relationship with HDB resale prices. Statistical analysis found that the mean HDB resale prices were lower for HDBs near expressway compared to HDBs not near expressway, for 2-room, 3-room, 4-room, 5-room and executive HDBs.
 </div>
 <br>
+<center><img src="images/hdb_resale.JPG"/></center>
+
+---
+### Analysis of Proximity to Expressway and HDB Resale Prices in Singapore
+
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
+
+<div style="text-align: justify">
+  Description
+</div>
+<br>
 <center><img src="images/dummy_thumbnail.jpg"/></center> # link to image
 
 ---
