@@ -25,15 +25,15 @@
 <center><img src="images/hdb_resale.JPG"/></center>
 
 ---
-### Analysis of Proximity to Expressway and HDB Resale Prices in Singapore
+### Case Study in Hong Kong: Landslide Susceptibility Prediction
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](images/landslide_poster.jpg)
 
 <div style="text-align: justify">
-  Description
+  A case study in Hong Kong to understand the efficacy of different classifier methods on detecting landslide susceptibility based on terrain information. To address the issue of imbalanced data, synthetic minority oversampling technique (SMOTE) was applied to expand the quantity of landslide samples. Results indicated that across all models, the usage of balanced data have led to improved outcomes, with recursive partitioning approaches like Bootstrap Forest and Boosted Tree generally performed better compared to logistic regression.
 </div>
 <br>
-<center><img src="images/dummy_thumbnail.jpg"/></center> # link to image
+<center><img src="images/landslide_snapshot.JPG"/></center> # link to image
 
 ---
 <center>© 2022 Fong Bao Xian. Powered by Jekyll and the Minimal Theme.</center>
