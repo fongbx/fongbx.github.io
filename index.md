@@ -34,7 +34,7 @@
   A case study in Hong Kong to understand the efficacy of different classifier methods on detecting landslide susceptibility based on terrain information. To address the issue of imbalanced data, synthetic minority oversampling technique (SMOTE) was applied to expand the quantity of landslide samples. Results indicated that across all models, the usage of balanced data have led to improved outcomes, with recursive partitioning approaches like Bootstrap Forest and Boosted Tree generally performed better compared to logistic regression.
 </div>
 <br>
-<center><img src="images/landslide_poster.jpg"/></center> # link to image
+<center><img src="images/landslide_poster.jpg"/></center>
 
 ---
 <center>© 2022 Fong Bao Xian. Powered by Jekyll and the Minimal Theme.</center>
