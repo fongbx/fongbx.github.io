@@ -31,7 +31,7 @@
 
 <div style="text-align: justify">
   An Excel model was built with the aim of maximising visitors' experience at the Universal Studios Singapore (USS) by minimising their total queue and travel time between rides. The model takes in inputs like day of visit, time of visit and ride preferences etc. and returns the optimised itinerary for the visitor.
-<br>
+<br><br>
   For building the model, real-time queue time and distances between rides were first collected to simulate and generate the average queue time and travel time between rides. Then, solver and permutation lookup methods were used to generate the optimised itinerary for the visitor. Macros were also used to build the user interface for the model.
 </div>
 <br>
