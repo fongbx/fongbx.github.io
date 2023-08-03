@@ -3,7 +3,7 @@
 ---
 ### Topic Modeling for Understanding Key Discussions on Capital Punishment in the Singapore Reddit Community
 
-[![View on GitHub](https://img.shields.io/badge/Github-View%20on%20Github-%23181717?logo=Github)](https://github.com/fongbx/vast-challenge-2023)
+[![View on GitHub](https://img.shields.io/badge/Github-View%20on%20Github-%23181717?logo=Github)](https://github.com/fongbx/topic_modelling_on_reddit_posts)
 
 <div style="text-align: justify">
   This project was conducted for understanding the sentiments and key discussions relating to capital punishment in the Singapore Reddit community. Posts and comments related to capital punishment were extracted from r/askSingapore, r/Singapore and r/SingaporeRaw subreddits using the Reddit Application Programming Interface (API). Then, topic modeling using BERTopic discovered six key themes and discussions surrounding capital punishment. The occurrence of topics over time was also visualised to understand how topics have changed over time.
@@ -20,7 +20,7 @@
 [![View on GitHub](https://img.shields.io/badge/Github-View%20on%20Github-%23181717?logo=Github)](https://github.com/fongbx/vast-challenge-2023)
 
 <div style="text-align: justify">
-  This project based on [Vast Challenge 2023](https://vast-challenge.github.io/2023/MC2.html) involved the use of visual analytics to help identify companies possibly engaged in illegal, unreported, and unregulated (IUU) fishing. An RShiny App was built to help users explore and interact with different types of network and shipment data to identify irregular trends and patterns.
+  This project, based on Vast Challenge 2023, involved the use of visual analytics to help identify companies possibly engaged in illegal, unreported, and unregulated (IUU) fishing. An RShiny App was built to help users explore and interact with different types of network and shipment data to identify irregular trends and patterns.
 </div>
 <br>
 <center><img src="images/network_1.JPG"/></center>
