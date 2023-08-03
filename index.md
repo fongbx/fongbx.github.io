@@ -1,6 +1,19 @@
 ## Portfolio
 
 ---
+### Network Analysis for Identification of Fishing Companies with Illegal Activities
+
+[![Open Shiny App](https://img.shields.io/badge/R-Open%20Shiny%20App-%23276DC3?logo=R)](https://oceanuswatch.shinyapps.io/shinyapp/)
+[![Visit Website](https://img.shields.io/badge/Visit%20Website?)](https://vast-challenge-2023-oceanus-watch.netlify.app/)
+[![View on GitHub](https://img.shields.io/badge/Github-View%20on%20Github-%23181717?logo=Github)](https://github.com/fongbx/vast-challenge-2023)
+
+<div style="text-align: justify">
+  This project based on [Vast Challenge 2023](https://vast-challenge.github.io/2023/MC2.html) involved the use of visual analytics to help identify companies possibly engaged in illegal, unreported, and unregulated (IUU) fishing. An RShiny App was built to help users explore and interact with different types of network and shipment data to identify irregular trends and patterns.
+</div>
+<br>
+<center><img src="images/hdb_resale.JPG"/></center>
+
+---
 ### Analysis of Proximity to Expressway and HDB Resale Prices in Singapore
 
 [![Open Notebook](https://img.shields.io/badge/Python-Open%20Notebook-%233776AB?logo=Python)](html/hdb_resale_notebook.html)
